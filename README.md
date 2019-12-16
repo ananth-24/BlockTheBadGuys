@@ -1,5 +1,5 @@
 # BlockTheBadGuys
-Motto: Moving towards an abuse-free online world
+Motto: Moving towards an abuse-free online world.
 
 Reason: Over the years internet trolls and abuses have made lot of mishaps which have even resulted in suicides and harassments.This tempted us to find a solution for this problem.
 
